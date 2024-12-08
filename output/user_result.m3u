@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-08 06:12:32" tvg-logo="https://live.fanmingming.com/tv/2024-12-08 06:12:32.png" group-title="更新时间",2024-12-08 06:12:32
-url
 #EXTINF:-1 tvg-name="茂名公共" tvg-logo="https://live.fanmingming.com/tv/茂名公共.png" group-title="📺电信IPTV",茂名公共
 http://113.111.16.104:8888/udp/239.77.0.207:5146$订阅源
 #EXTINF:-1 tvg-name="茂名公共" tvg-logo="https://live.fanmingming.com/tv/茂名公共.png" group-title="📺电信IPTV",茂名公共
